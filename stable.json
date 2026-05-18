@@ -1,17 +1,17 @@
 {
   "enabled": true,
   "channel": "stable",
-  "versionCode": 247,
-  "versionName": "0.1.0-v247-feature-history",
-  "apkName": "shandianshuo-v247-feature-history-20260519-0426.apk",
-  "apkUrl": "https://github.com/shandianshuo/shandianshuo-android-releases/releases/download/v247-feature-history-20260519-0426/shandianshuo-v247-feature-history-20260519-0426.apk",
-  "sha256": "1f5c4bf7bad0fcfe6108db8faa4dba3dd0f2542f446e3ab9dca23b29723ca486",
+  "versionCode": 248,
+  "versionName": "0.1.0-v248-r8-cn",
+  "apkName": "shandianshuo-v248-r8-cn-20260519-0456.apk",
+  "apkUrl": "https://download.shandianshuo.cn/android/shandianshuo-v248-r8-cn-20260519-0456.apk",
+  "sha256": "93c8d139ff0b51f64d2380d11a38a3903b48f84b1b989551912d89987e85370a",
   "certSha256": "036496a242a4ef7733eeec675afa6b50f106f6e88b314e7a1140fbc34cf384ee",
   "force": false,
-  "publishedAt": "2026-05-18T20:28:04Z",
+  "publishedAt": "2026-05-18T20:56:18Z",
   "notes": [
-    "功能介绍改为版本记录列表",
-    "点击版本记录可进入详情页查看更新内容",
-    "用于验证 v245 / v246 通过版本更新拉取 v247"
+    "版本更新优先走国内 OSS/CDN，减少 GitHub 访问失败。",
+    "国内 APK 下载适配 update.shandianshuo.cn Referer 防盗链策略。",
+    "对外 release 包开启 R8 混淆和资源压缩，并关闭 release 诊断开关。"
   ]
 }
