@@ -1,17 +1,17 @@
 {
   "enabled": true,
   "channel": "stable",
-  "versionCode": 246,
-  "versionName": "0.1.0-v246-update",
-  "apkName": "shandianshuo-v246-update-pull-test-20260519-0411.apk",
-  "apkUrl": "https://github.com/shandianshuo/shandianshuo-android-releases/releases/download/v246-update-pull-test-20260519-0411/shandianshuo-v246-update-pull-test-20260519-0411.apk",
-  "sha256": "a40882bffdbcc8cc8107e980d15c849ea59f23c0d294860518fe0c767381d811",
+  "versionCode": 247,
+  "versionName": "0.1.0-v247-feature-history",
+  "apkName": "shandianshuo-v247-feature-history-20260519-0426.apk",
+  "apkUrl": "https://github.com/shandianshuo/shandianshuo-android-releases/releases/download/v247-feature-history-20260519-0426/shandianshuo-v247-feature-history-20260519-0426.apk",
+  "sha256": "1f5c4bf7bad0fcfe6108db8faa4dba3dd0f2542f446e3ab9dca23b29723ca486",
   "certSha256": "036496a242a4ef7733eeec675afa6b50f106f6e88b314e7a1140fbc34cf384ee",
   "force": false,
-  "publishedAt": "2026-05-18T20:12:03Z",
+  "publishedAt": "2026-05-18T20:28:04Z",
   "notes": [
-    "版本更新链路测试包",
-    "用于从 v245 拉取 v246",
-    "验证 stable manifest、下载校验和系统安装器链路"
+    "功能介绍改为版本记录列表",
+    "点击版本记录可进入详情页查看更新内容",
+    "用于验证 v245 / v246 通过版本更新拉取 v247"
   ]
 }
