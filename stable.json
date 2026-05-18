@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "channel": "stable",
+  "versionCode": 245,
+  "versionName": "0.1.0-v245-update",
+  "apkName": "shandianshuo-v245-update-20260519-0403.apk",
+  "apkUrl": "https://github.com/shandianshuo/shandianshuo-android-releases/releases/download/v245-update-20260519-0403/shandianshuo-v245-update-20260519-0403.apk",
+  "sha256": "dd40e956a3e50c8712fa89cd3fc863bb7da666605d112bee0d758c01349bd0bb",
+  "certSha256": "036496a242a4ef7733eeec675afa6b50f106f6e88b314e7a1140fbc34cf384ee",
+  "force": false,
+  "publishedAt": "2026-05-18T20:04:28Z",
+  "notes": [
+    "关于页新增版本更新入口",
+    "稳定 manifest 控制可更新版本",
+    "下载后校验 APK 与签名并打开系统安装器",
+    "优化个人记忆和用户词典编辑器性能"
+  ]
+}
