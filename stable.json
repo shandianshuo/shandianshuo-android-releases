@@ -4,14 +4,14 @@
   "versionCode": 248,
   "versionName": "0.1.0-v248-r8-cn",
   "apkName": "shandianshuo-v248-r8-cn-20260519-0500.apk",
-  "apkUrl": "https://download.shandianshuo.cn/android/shandianshuo-v248-r8-cn-20260519-0500.apk",
+  "apkUrl": "https://update.shandianshuo.cn/android/shandianshuo-v248-r8-cn-20260519-0500.apk",
   "sha256": "bbf3cb503e3bfb36b27be8263f818d704edeff9ca66f63786dc138ce4097dc6c",
   "certSha256": "036496a242a4ef7733eeec675afa6b50f106f6e88b314e7a1140fbc34cf384ee",
   "force": false,
-  "publishedAt": "2026-05-18T21:01:44Z",
+  "publishedAt": "2026-05-18T21:06:59Z",
   "notes": [
     "版本更新优先走国内 OSS/CDN，减少 GitHub 访问失败。",
-    "国内 APK 下载适配 update.shandianshuo.cn Referer 防盗链策略。",
+    "更新包下载改用不依赖 Referer 的 update.shandianshuo.cn，兼容旧版客户端拉新。",
     "对外 release 包开启 R8 混淆和资源压缩，并关闭 release 诊断开关。"
   ]
 }
