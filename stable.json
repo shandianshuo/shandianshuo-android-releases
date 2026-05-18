@@ -1,18 +1,17 @@
 {
   "enabled": true,
   "channel": "stable",
-  "versionCode": 245,
-  "versionName": "0.1.0-v245-update",
-  "apkName": "shandianshuo-v245-update-20260519-0403.apk",
-  "apkUrl": "https://github.com/shandianshuo/shandianshuo-android-releases/releases/download/v245-update-20260519-0403/shandianshuo-v245-update-20260519-0403.apk",
-  "sha256": "dd40e956a3e50c8712fa89cd3fc863bb7da666605d112bee0d758c01349bd0bb",
+  "versionCode": 246,
+  "versionName": "0.1.0-v246-update",
+  "apkName": "shandianshuo-v246-update-pull-test-20260519-0411.apk",
+  "apkUrl": "https://github.com/shandianshuo/shandianshuo-android-releases/releases/download/v246-update-pull-test-20260519-0411/shandianshuo-v246-update-pull-test-20260519-0411.apk",
+  "sha256": "a40882bffdbcc8cc8107e980d15c849ea59f23c0d294860518fe0c767381d811",
   "certSha256": "036496a242a4ef7733eeec675afa6b50f106f6e88b314e7a1140fbc34cf384ee",
   "force": false,
-  "publishedAt": "2026-05-18T20:04:28Z",
+  "publishedAt": "2026-05-18T20:12:03Z",
   "notes": [
-    "关于页新增版本更新入口",
-    "稳定 manifest 控制可更新版本",
-    "下载后校验 APK 与签名并打开系统安装器",
-    "优化个人记忆和用户词典编辑器性能"
+    "版本更新链路测试包",
+    "用于从 v245 拉取 v246",
+    "验证 stable manifest、下载校验和系统安装器链路"
   ]
 }
